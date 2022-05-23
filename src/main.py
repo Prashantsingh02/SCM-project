@@ -9,7 +9,7 @@ import re
 load_dotenv()
 client = discord.Client()
 embed = discord.Embed(color = 15105570)
-PREFIX = '$'
+PREFIX = '&'
 URL = f"https://1lib.in"
 HEADER = {"User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:100.0) Gecko/20100101 Firefox/100.0"}
 
